@@ -15,11 +15,11 @@
 </br>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mofachhalhossain&show_icons=true&count_private=true&theme=dark" width="430"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mofachhalhossain&show_icons=true&count_private=true&theme=dark" width="480"></a>
 </p>
 
 </br>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mofachhalhossain&theme=blue-green" width="260"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mofachhalhossain&theme=blue-green" width="290"></a>
 </p>
