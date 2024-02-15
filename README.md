@@ -15,8 +15,8 @@
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mofachhalhossain&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=dark)
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mofachhalhossain&layout=compact&theme=dark)
